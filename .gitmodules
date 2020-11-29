@@ -1,0 +1,6 @@
+[submodule "qmk_firmware"]
+	path = qmk_firmware
+	url = git@github.com:ahk/qmk_firmware.git
+[submodule "mdloader"]
+	path = mdloader
+	url = git@github.com:ahk/mdloader.git
