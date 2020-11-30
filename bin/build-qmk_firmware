@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+docker run --rm -it -v $PWD:/app drop-ctrl-keyboard /bin/bash -c "cd /app/qmk_firmware && make massdrop/ctrl:default_md"
