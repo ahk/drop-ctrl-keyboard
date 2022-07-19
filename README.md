@@ -11,6 +11,9 @@ INHALE
 <https://github.com/qmk/qmk_firmware/tree/0.17.5>
 <https://github.com/qmk/qmk_toolbox/releases/tag/0.2.2>
 
+The thread:
+https://github.com/qmk/qmk_firmware/issues/14082
+
 ## Install QMK Toolbox
 
 `qmk_toolbox_install.exe` is the installer. Do it. This thing will find and flash your keyboard once you've put it in flashing/reset mode.
